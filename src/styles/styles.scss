@@ -1,0 +1,24 @@
+.backBtnStyle{
+  float: right;
+  margin-right: 15px;
+}
+
+.backBtnStyle:hover{
+  cursor: pointer;
+}
+
+.card-style{
+  width: 240px;
+  margin: 15px;
+}
+
+.card-style:hover{
+  cursor: pointer;
+}
+
+.ant-form-item-control {
+  span{
+      line-height: 20px !important;
+      justify-content: space-between !important;
+  }
+}
